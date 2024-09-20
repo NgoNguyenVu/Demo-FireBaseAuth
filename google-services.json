@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "811938266804",
+    "project_id": "contactlistapp-12b92",
+    "storage_bucket": "contactlistapp-12b92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811938266804:android:043c2297097999f69ce1e1",
+        "android_client_info": {
+          "package_name": "com.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjSmRKc-lU6cg3C8FCO1irvkJELinVj5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
